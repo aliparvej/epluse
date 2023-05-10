@@ -1,0 +1,96 @@
+.outer
+{
+height:100% auto;width:100% auto;
+ /* border:1px solid; */
+}
+.head1
+{
+	height:80px;width:100%;background-color:white;border:px solid #53778D;
+	
+}
+.head1 ul
+{
+	list-style-type:none;
+	margin-left:15%;
+	
+}
+.head1 ul li
+{
+	display:inline;
+	padding:2px;
+    font-size:40px;
+	border-radius:10px 10px 10px 10px;
+	font-size:48px;background-color:;font-family:Colonna MT;
+	
+}
+.head1 ul li:hover
+{
+	background-color:lightblue;
+		box-shadow:4px 4px 12px blue inset;
+}
+.head1 ul li a:hover
+{
+	color:white;
+		
+		}
+.head1 ul li a
+{
+	text-decoration:none;
+	color:#53778D;
+}
+	
+.log
+{
+	height:100%;width:100%;border:1px solid #53778D;
+	background-color:;
+	
+}
+.loga
+{
+	height:100%;width:100%;//border:1px solid #53778D;
+	background-color:#CCD9D1;
+	
+}
+.left
+{
+	height:40%;width:20%;//border:1px solid #53778D;
+	background-color:;float:left;margin-left:10%;
+	
+}
+.right
+{
+	height:40%;width:60%;
+	background-color:green;float:left;
+		
+}
+
+.map
+{
+	height:70%;width:100%;
+	
+}
+
+.afooter
+{
+	height:250px;width:100%;
+	background-color:#53778D;box-shadow:15px 15px 150px blue inset;
+}
+.fdiv
+{
+	height:220px;width:18%;float:left;margin-left:14px;
+}
+.outer .afooter .fdiv ul
+{
+	list-style-type:none;
+}
+.outer .afooter .fdiv ul li
+{
+	color:white;
+	
+}
+.outer .afooter .fdiv ul li a
+{
+	text-decoration:none;
+}
+
+

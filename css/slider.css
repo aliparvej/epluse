@@ -1,0 +1,25 @@
+.slider
+{
+height:80%;width:100%;
+background-size:cover;
+animation:slide 20s infinite;
+}
+@keyframes slide
+{
+	0%,100%
+	{
+		background-image:url(../images/2.jpg);
+	}
+	25%
+	{
+		background-image:url(../images/5.jpg);
+	}
+	50%
+	{
+		background-image:url(../images/3.jpg);
+	}
+	75%
+	{
+		background-image:url(../images/4.jpg);
+	}
+}
